@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check Whether an Alphabet Is Vowel or Consonant", "Check Whether an Alphabet Is Vowel or Consonant.csproj", "{5B49C8FF-05EB-4664-A3E7-E755B542550A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B49C8FF-05EB-4664-A3E7-E755B542550A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B49C8FF-05EB-4664-A3E7-E755B542550A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B49C8FF-05EB-4664-A3E7-E755B542550A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B49C8FF-05EB-4664-A3E7-E755B542550A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB90D3C-9C80-46B6-97C6-E4C1FD1F00D6}
+	EndGlobalSection
+EndGlobal
